@@ -49,7 +49,7 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 
 
 
-• 🌐 Interests
+## 🌐 Interests
 
 • 🍳 Cooking
 

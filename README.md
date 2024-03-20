@@ -13,7 +13,7 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 • 🌐 GitHub: https://github.com/tenev89
 
 
-🚀 Skills
+## 🚀 Skills
 
 • Basic HTML & CSS
 
@@ -38,12 +38,12 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 • Soft Skills: Creativity, Motivation, Teamwork, Analysis, Innovation
 
 
-🎓 Education
+## 🎓 Education
 
 • Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
 
 
-💼 Projects
+## 💼 Projects
 
 
 

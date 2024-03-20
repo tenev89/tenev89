@@ -6,42 +6,41 @@ Welcome to My GitHub Profile 👋
 Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA position. My background in managing people and processes, coupled with exceptional communication skills and a commitment to growth, positions me as a candidate ready to excel in executing tasks efficiently and meeting challenging deadlines.
 
 
-*📧 Email: t.tenev89@gmail.com
+•📧 Email: t.tenev89@gmail.com
 
-🌐 LinkedIn: https://www.linkedin.com/in/tenev89/
+•🌐 LinkedIn: https://www.linkedin.com/in/tenev89/
 
-🌐 GitHub: https://github.com/tenev89
+•🌐 GitHub: https://github.com/tenev89
 
 
 🚀 Skills
 
-Basic HTML & CSS
+•Basic HTML & CSS
 
-Basic SQL
+•Basic SQL
 
-Basic Jmeter
+•Basic Jmeter
 
-Basic Postman
+•Basic Postman
 
-Design of test cases and execution
+•Design of test cases and execution
 
-Scrum
+•Scrum
 
-Qase
+•Qase
 
-Chrome Dev Tool
+•Chrome Dev Tool
 
-Basic Jira
+•Basic Jira
 
-Trello
+•Trello
 
-
-Soft Skills: Creativity, Motivation, Teamwork, Analysis, Innovation
+•Soft Skills: Creativity, Motivation, Teamwork, Analysis, Innovation
 
 
 🎓 Education
 
-Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
+•Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
 
 
 💼 Projects
@@ -50,10 +49,10 @@ Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
 
 
 
-🌐 Interests
+•🌐 Interests
 
-🍳 Cooking
+•🍳 Cooking
 
-🚴 Motorcycling
+•🚴 Motorcycling
 
-💪 Fitness
+•💪 Fitness

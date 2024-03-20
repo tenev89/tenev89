@@ -3,8 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA position. My background in managing people and processes, coupled with exceptional communication skills and a commitment to growth, positions me as a candidate ready to excel in executing tasks efficiently and meeting challenging deadlines.
-
+Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA position. I believe that my skills and qualities make me a valuable addition and my attention to detail will contribute to the quality of the software products.
 
 • 📧 Email: t.tenev89@gmail.com
 

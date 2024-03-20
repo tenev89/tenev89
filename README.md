@@ -6,7 +6,7 @@ Welcome to My GitHub Profile 👋
 Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA position. My background in managing people and processes, coupled with exceptional communication skills and a commitment to growth, positions me as a candidate ready to excel in executing tasks efficiently and meeting challenging deadlines.
 
 
-📧 Email: t.tenev89@gmail.com
+*📧 Email: t.tenev89@gmail.com
 
 🌐 LinkedIn: https://www.linkedin.com/in/tenev89/
 

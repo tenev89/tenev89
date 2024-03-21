@@ -3,8 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA position. I believe that my skills and qualities make me a valuable addition and my attention to detail will contribute to the quality of the software products. I am open to temporarily relocating for internship programs and entry-level roles. Additionally, I am receptive to remote opportunities thereafter.
-
+Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA position. I believe that my skills and qualities make me a valuable addition and my attention to details will contribute to the quality of the software products.
 • 📧 Email: t.tenev89@gmail.com
 
 • 🌐 LinkedIn: https://www.linkedin.com/in/tenev89/

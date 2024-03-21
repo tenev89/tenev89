@@ -5,11 +5,21 @@
 
 Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA position. I believe that my skills and qualities make me a valuable addition and my attention to details will contribute to the quality of the software products.
 
-• 📧 Email: t.tenev89@gmail.com
+## 🎓 Education
 
-• 🌐 LinkedIn: https://www.linkedin.com/in/tenev89/
+# Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
 
-• 🌐 GitHub: https://github.com/tenev89
+• Fundamentals of Quality Assurance.
+
+• Test cases planning, design and execution.
+
+• Understanding of Agile, SCRUM and SDLC processes.
+
+• Working with tools and techniques related to the role processes.
+
+
+## 💼 Projects
+
 
 
 ## 🚀 Skills
@@ -37,12 +47,11 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 • Soft Skills: Creativity, Motivation, Teamwork, Analysis, Innovation
 
 
-## 🎓 Education
+• 📧 Email: t.tenev89@gmail.com
 
-• Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
+• 🌐 LinkedIn: https://www.linkedin.com/in/tenev89/
 
-
-## 💼 Projects
+• 🌐 GitHub: https://github.com/tenev89
 
 
 

@@ -7,18 +7,6 @@ Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation
 
 I have gained valuable experience by working on a variety of projects and utilizing different tools, all of which I've diligently practiced and refined. You can explore some of my work across six repositories, which demonstrate my dedication and proficiency.
 
-## 🎓 Education
-
-## Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
-
-• Fundamentals of Quality Assurance.
-
-• Test cases planning, design and execution.
-
-• Understanding of Agile, SCRUM and SDLC processes.
-
-• Working with tools and techniques related to the role processes.
-
 
 ## 💼 Projects
 
@@ -35,6 +23,18 @@ Repository Teodor.bg-Test-Cases: This repository serves as a showcase of test ca
 Repository Workout.bg-Test-Cases: This repository serves as a showcase of test cases.
 
 Repository Help-a-Paw-Android-Test-Cases: This repository serves as a showcase of test cases for mobile application.
+
+## 🎓 Education
+
+## Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
+
+• Fundamentals of Quality Assurance.
+
+• Test cases planning, design and execution.
+
+• Understanding of Agile, SCRUM and SDLC processes.
+
+• Working with tools and techniques related to the role processes.
 
 
 ## 🚀 Skills

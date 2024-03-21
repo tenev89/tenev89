@@ -20,7 +20,7 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 
 ## 💼 Projects
 
-Here are 7 repositories showcasing my work on various projects and tools:
+Here are 6 repositories showcasing my work on various projects and tools:
 
 Repository SQL: The repository contains a collection of SQL exercises.
 

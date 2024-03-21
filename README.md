@@ -10,19 +10,19 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 ## 💼 Projects
 
-Here are 6 repositories showcasing my work on various projects and tools:
+### Here are 6 repositories showcasing my work on various projects and tools:
 
-### Repository SQL: The repository contains a collection of SQL exercises.
+#### Repository SQL: The repository contains a collection of SQL exercises.
 
-### Repository HTML-CSS: This repository contains a series of HTML and CSS exercises.
+#### Repository HTML-CSS: This repository contains a series of HTML and CSS exercises.
 
-### Repository shop.demoqa.com-Defect-Reports: This repository contains a collection of defect reports.
+#### Repository shop.demoqa.com-Defect-Reports: This repository contains a collection of defect reports.
 
-### Repository Teodor.bg-Test-Cases: This repository serves as a showcase of test cases and quality assurance efforts.
+#### Repository Teodor.bg-Test-Cases: This repository serves as a showcase of test cases and quality assurance efforts.
 
-### Repository Workout.bg-Test-Cases: This repository serves as a showcase of test cases.
+#### Repository Workout.bg-Test-Cases: This repository serves as a showcase of test cases.
 
-### Repository Help-a-Paw-Android-Test-Cases: This repository serves as a showcase of test cases for mobile application.
+#### Repository Help-a-Paw-Android-Test-Cases: This repository serves as a showcase of test cases for mobile application.
 
 ## 🎓 Education
 

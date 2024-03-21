@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation from QA Engineer course. I'm dedicated to ensuring the quality and reliability of software products.
+Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation from QA Engineer course.
 
 I have gained valuable experience by working on a variety of projects and utilizing different tools, all of which I've diligently practiced and refined. You can explore some of my work across six repositories, which demonstrate my dedication and proficiency.
 

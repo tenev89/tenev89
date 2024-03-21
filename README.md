@@ -44,8 +44,15 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 
 • Trello
 
-• Soft Skills: Creativity, Motivation, Teamwork, Analysis, Innovation
+## 🌐 Interests
 
+• 🍳 Cooking
+
+• 🚴 Motorcycling
+
+• 💪 Fitness
+
+## Contacts
 
 • 📧 Email: t.tenev89@gmail.com
 
@@ -57,10 +64,6 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 
 
 
-## 🌐 Interests
 
-• 🍳 Cooking
 
-• 🚴 Motorcycling
 
-• 💪 Fitness

@@ -20,6 +20,19 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 
 ## 💼 Projects
 
+Here are 7 repositories showcasing my work on various projects and tools:
+
+Repository SQL: The repository contains a collection of SQL exercises.
+
+Repository HTML-CSS: This repository contains a series of HTML and CSS exercises.
+
+Repository shop.demoqa.com-Defect-Reports: This repository contains a collection of defect reports.
+
+Repository Teodor.bg-Test-Cases: This repository serves as a showcase of test cases and quality assurance efforts.
+
+Repository Workout.bg-Test-Cases: This repository serves as a showcase of test cases.
+
+Repository Help-a-Paw-Android-Test-Cases: This repository serves as a showcase of test cases for mobile application.
 
 
 ## 🚀 Skills

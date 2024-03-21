@@ -3,7 +3,9 @@
 
 ## 👨‍💻 About Me
 
-Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA position. I believe that my skills and qualities make me a valuable addition and my attention to details will contribute to the quality of the software products.
+Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation from QA Engineer course. I'm dedicated to ensuring the quality and reliability of software products through rigorous testing and continuous improvement practices.
+
+I have gained valuable experience by working on a variety of projects and utilizing different tools, all of which I've diligently practiced and refined. You can explore some of my work across six repositories, which demonstrate my dedication and proficiency.
 
 ## 🎓 Education
 

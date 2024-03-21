@@ -3,7 +3,9 @@
 
 ## 👨‍💻 About Me
 
-Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation from QA Engineer course. I'm dedicated to ensuring the quality and reliability of software products through rigorous testing and continuous improvement practices.
+Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation from QA Engineer course. I'm dedicated to ensuring the quality and reliability of software products through rigorous testing and continuous improvement practices. I thrive in collaborative environments where I can leverage my communication skills to effectively work with cross-functional teams and drive towards shared goals.
+
+
 
 I have gained valuable experience by working on a variety of projects and utilizing different tools, all of which I've diligently practiced and refined. You can explore some of my work across six repositories, which demonstrate my dedication and proficiency.
 

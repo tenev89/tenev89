@@ -7,7 +7,7 @@ Hello there! I am a recent graduate of a QA Engineer course seeking an Entry QA 
 
 ## 🎓 Education
 
-# Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
+## Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
 
 • Fundamentals of Quality Assurance.
 

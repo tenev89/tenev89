@@ -73,8 +73,6 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 • 🌐 LinkedIn: https://www.linkedin.com/in/tenev89/
 
-• 🌐 GitHub: https://github.com/tenev89
-
 
 
 

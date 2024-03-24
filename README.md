@@ -12,7 +12,7 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 ### Here are 6 repositories showcasing my work on various projects and tools:
 
-#### SQL: The repository contains a collection of SQL exercises.
+#### **SQL: The repository contains a collection of SQL exercises.**
 
 #### HTML-CSS: This repository contains a series of HTML and CSS exercises.
 

@@ -14,15 +14,15 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 #### **_SQL: The repository contains a collection of SQL exercises._**
 
-#### HTML-CSS: This repository contains a series of HTML and CSS exercises.
+#### **_HTML-CSS: This repository contains a series of HTML and CSS exercises._**
 
-#### shop.demoqa.com-Defect-Reports: This repository contains a collection of defect reports.
+#### **_shop.demoqa.com-Defect-Reports: This repository contains a collection of defect reports._**
 
-#### Teodor.bg-Test-Cases: This repository serves as a showcase of test cases and quality assurance efforts.
+#### **_Teodor.bg-Test-Cases: This repository serves as a showcase of test cases and quality assurance efforts._**
 
-#### Workout.bg-Test-Cases: This repository serves as a showcase of test cases.
+#### **_Workout.bg-Test-Cases: This repository serves as a showcase of test cases._**
 
-#### Help-a-Paw-Android-Test-Cases: This repository serves as a showcase of test cases for mobile application.
+#### **_Help-a-Paw-Android-Test-Cases: This repository serves as a showcase of test cases for mobile application._**
 
 ## 🎓 Education
 

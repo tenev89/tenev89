@@ -26,7 +26,7 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 ## 🎓 Education
 
-## Quality Assurance Engineer at JQA Academy Group, 07/2023 - 01/2024
+## Quality Assurance Engineer at JQA Academy Group
 
 • Fundamentals of Quality Assurance.
 

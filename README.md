@@ -8,7 +8,9 @@ Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation
 I have gained valuable experience by working on a variety of projects and utilizing different tools, all of which I've diligently practiced and refined. You can explore some of my work across six repositories, which demonstrate my dedication and proficiency.
 
 
-## 💼 Projects   <span style="color:blue">This text is blue</span>
+## 💼 Projects   
+
+<span style="color:blue">This text is blue</span>
 
 ### Here are 6 repositories showcasing my work on various projects and tools:
 

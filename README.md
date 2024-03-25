@@ -10,9 +10,10 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 ## 💼 Projects   
 
-<span style="color:blue">This text is blue</span>
-
 ### Here are 6 repositories showcasing my work on various projects and tools:
+
+```diff
+- #### **_SQL: The repository contains a collection of_** <span style="color:blue">**SQL**</span> **_exercises._**
 
 #### **_SQL: The repository contains a collection of SQL exercises._**
 

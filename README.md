@@ -39,13 +39,13 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 ## 🚀 Skills
 
-• Basic HTML & CSS
+• HTML & CSS
 
-• Basic SQL
+• SQL
 
-• Basic Jmeter
+• Jmeter
 
-• Basic Postman
+• Postman
 
 • Design of test cases and execution
 
@@ -55,7 +55,7 @@ I have gained valuable experience by working on a variety of projects and utiliz
 
 • Chrome Dev Tool
 
-• Basic Jira
+• Jira
 
 • Trello
 

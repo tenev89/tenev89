@@ -42,6 +42,8 @@ My GitHub repositories feature projects from my training, showcasing my dedicati
 
 • SQL
 
+• Metabase
+
 • Jmeter
 
 • Postman
@@ -50,13 +52,13 @@ My GitHub repositories feature projects from my training, showcasing my dedicati
 
 • Scrum
 
-• Qase
+• Eppo
 
 • Chrome Dev Tool
 
 • Jira
 
-• Trello
+• TestRail
 
 ## 🌐 Interests
 

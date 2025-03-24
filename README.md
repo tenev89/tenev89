@@ -3,10 +3,9 @@
 
 ## 👨‍💻 About Me
 
-Hello! 👋 I'm a passionate and detail-oriented person with a recent graduation from QA Engineer course.
-
-I have gained valuable experience by working on a variety of projects and utilizing different tools, all of which I've diligently practiced and refined. You can explore some of my work across six repositories, which demonstrate my dedication and proficiency.
-
+"Hello! 👋 I'm a passionate and detail-oriented QA Engineer currently working in software testing. 
+After completing my QA training, I gained hands-on experience through a three-month internship and have since been developing my skills in a professional QA role. 
+My GitHub repositories feature projects from my training, showcasing my dedication to learning and applying testing methodologies. Always eager to grow, I strive to enhance software quality and contribute to innovative projects."
 
 ## 💼 Projects   
 
